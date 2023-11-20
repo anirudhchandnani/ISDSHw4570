@@ -213,3 +213,5 @@ print('MASE:', MASE)
 #MASE: 0.6838819321741822 with 2 levels of auto-regression relu and sigmoid
 
 #MASE: MASE: 0.6818307405594899 with 2 levels auto-regression and 2 levels of lagging all series relu and sigmoid
+
+#############BEST MASE = 0.656590277607401
